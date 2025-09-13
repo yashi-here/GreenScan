@@ -33,16 +33,27 @@ The **Eco-Health Product Scorer** is a browser extension powered by AI that prov
 
 eco-health-product-scorer/
 │
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── LICENSE
+
 ├── data/ # Placeholder dataset
+
 ├── model/
+
 │ ├── model.py # Random Forest placeholder
+
 │ ├── train.py # Training pipeline 
+
 │ └── predict.py # Inference script
+
 ├── extension/ # Browser extension placeholder
+
 │ └── README.md
+
 └── docs/ # Flowcharts, diagrams
 
 
@@ -64,5 +75,3 @@ eco-health-product-scorer/
 ---
 
 
-
-## Directory Structure
